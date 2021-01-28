@@ -54,7 +54,7 @@ http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
 # http://yuniptvun100.chinayungu.cn:65530/live/cctv13/index.m3u8
 # rtmp://ivi6.bupt.edu.cn/livetv/cctv13hd
 # rtmp://ivi.bupt.edu.cn/livetv/cctv13hd
-# http://itv.ahau.edu.cn/hls/cctv13hd.m3u8
+# http://itv.ahau.edu.cn/hls/hls258.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14 少儿[高清]
 http://10.1.0.1:4022/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
@@ -74,22 +74,22 @@ http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
 http://hdtv.lzu6.edu.cn/hls/hjjctv.m3u8
 # http://itv.ahau.edu.cn/hls/hjjctv.m3u8
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://111.161.121.181/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://111.161.121.213/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://111.161.121.214/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://110.242.20.87/livews-4k.5club.cctv.cn/live/4K0108.stream/playlist.m3u8
-# http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K0108.stream/playlist.m3u8
-# http://110.242.20.89/livews-4k.5club.cctv.cn/live/4K0108.stream/playlist.m3u8
-# http://110.242.20.90/livews-4k.5club.cctv.cn/live/4K0108.stream/playlist.m3u8
-# http://110.242.20.108/livews-4k.5club.cctv.cn/live/4K0108.stream/playlist.m3u8
-# http://124.167.236.39/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://124.167.236.164/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://124.167.236.165/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://124.167.236.166/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://124.167.236.167/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
-# http://124.167.236.243/livews-4k.5club.CCTV.cn/live/4K0108.stream/playlist.m3u8
+http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0122.stream/playlist.m3u8
+# http://111.161.121.181/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://111.161.121.212/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://111.161.121.213/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://111.161.121.214/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://110.242.20.87/livews-4k.5club.cctv.cn/live//4K0122.stream/playlist.m3u8
+# http://110.242.20.88/livews-4k.5club.cctv.cn/live//4K0122.stream/playlist.m3u8
+# http://110.242.20.89/livews-4k.5club.cctv.cn/live//4K0122.stream/playlist.m3u8
+# http://110.242.20.90/livews-4k.5club.cctv.cn/live//4K0122.stream/playlist.m3u8
+# http://110.242.20.108/livews-4k.5club.cctv.cn/live//4K0122.stream/playlist.m3u8
+# http://124.167.236.39/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://124.167.236.164/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://124.167.236.165/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://124.167.236.166/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://124.167.236.167/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
+# http://124.167.236.243/livews-4k.5club.CCTV.cn/live//4K0122.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 # http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
@@ -143,6 +143,9 @@ http://10.1.0.1:4022/rtp/239.3.1.212:8060
 http://10.1.0.1:4022/rtp/239.3.1.58:8156
 #EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
 http://10.1.0.1:4022/rtp/239.3.1.114:8001
+#EXTINF:-1 tvg-name="全纪实",全纪实[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
+# http://itv.ahau.edu.cn/hls/hls184a639.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",地理
 http://10.1.0.1:4022/rtp/239.3.1.71:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘剧场[高清]
